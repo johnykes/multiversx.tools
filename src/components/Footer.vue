@@ -18,7 +18,7 @@
         /></a>
       </div>
 
-      <p>made with love by community</p>
+      <p>made with love by the community</p>
     </div>
   </div>
 </template>
