@@ -13,7 +13,7 @@
           class="button_hover"
           ><font-awesome-icon alt="Twitter" :icon="['fab', 'twitter']"
         /></a>
-        <a id="footer_social" href="https://github.com/" class="button_hover"
+        <a id="footer_social" href="https://github.com/johnykes/multiversx.tools" class="button_hover"
           ><font-awesome-icon alt="Github" :icon="['fab', 'github']"
         /></a>
       </div>
