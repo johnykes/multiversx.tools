@@ -1,6 +1,6 @@
 # xTools
 
-Free and open source for MultiversX / EGLD developers tools/utils, maintained by community.
+Free and open source for MultiversX / EGLD developers tools/utils, maintained by the community.
 
 https://www.multiversx.tools
 
