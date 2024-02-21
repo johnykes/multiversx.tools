@@ -109,7 +109,7 @@ export default {
       envs: [
         {
           name: "mainnet",
-          // last stats from api.elrond.com/stats
+          // last stats from api.multiversx.com/stats
           stats: undefined,
           // current epoch & round (based on stats + current date & time)
           currentStats: undefined,
