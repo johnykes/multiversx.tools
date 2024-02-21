@@ -1,13 +1,24 @@
 # xTools
 
-Free and open source for MultiversX / EGLD developers tools/utils, maintained by the community.
+xTools is a collection of free and open-source tools and utilities for MultiversX/EGLD developers, maintained by the community.
 
-https://www.multiversx.tools
+[Visit our website](https://www.multiversx.tools)
 
-TODO ideas:
-- auth & tx signer
-- ...
 
-Feel free to contribute.
+## Current Functionalities
 
-Logo by https://www.miketoonstudio.com/#
+- **Converters:**
+  - Data types
+  - Amounts (denominations & nominations)
+  - Epochs (convert live EPOCH to timestamp & vice versa; convert any date to epoch; etc)
+
+## TODO IDEAS:
+
+- **Auth & Transaction Signer:**
+  - Implement authentication and transaction signing functionalities.
+
+- **Your Idea Here...**
+
+Feel free to contribute to this awesome community! We welcome contributions from all skill levels.
+
+Logo by [Mike Toon Studio](https://www.miketoonstudio.com/#)
